@@ -1,0 +1,36 @@
+.navbar-logo {
+    height: 50px; /* Adjust this as needed */
+    width: auto;  /* Maintain aspect ratio */
+  }
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    margin-left: 15px;
+  }
+
+.menu li a {
+    text-decoration: none;
+    color: #333; 
+  }
+  
+
+.menu li a:hover {
+    color: #007bff;  
+}
+  
+  
+nav.d-flex {
+    align-items: center;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+     /* Light grey background */
+    padding: 10px 15px; /* Adjust padding as needed */
+}
+

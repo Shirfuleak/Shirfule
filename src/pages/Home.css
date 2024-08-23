@@ -1,0 +1,27 @@
+.banner {
+    width: 100%; /* Make sure the banner takes the full width */
+    overflow: hidden; /* Hide any overflow */
+  }
+
+.banner-image {
+  
+    width: 100%; /* Make sure the image takes the full width */
+    height: 500px; /* Set the desired height */
+    object-fit: cover; 
+    /* Ensure the image covers the area without distortion */
+    display: block; /* Remove bottom space under the image */
+    z-index: 0.5;
+  }
+
+
+  .banner-heading {
+    position: absolute; /* Position absolutely within the banner container */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for exact centering */
+    text-align: center; /* Center the text */
+    color: #800505; /* Text color for better contrast with the background image */
+    padding: 0 20px; /* Optional: Add padding for better spacing */
+    font-size: 2rem; /* Adjust the font size as needed */
+    font-weight: bold; /* Optional: Make the text bold */
+  }
