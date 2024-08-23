@@ -1,0 +1,47 @@
+{
+    "products": [
+      {
+        "id": 6,
+        "name": "Banana",
+        "price": 1.2,
+        "inStock": true,
+        "image": "images/banana.png" 
+      },
+      {
+        "id": 5,
+        "name": "cotton",
+        "price": 0.5,
+        "inStock": false,
+        "image": "images/cotton.png" 
+      },
+      {
+        "id": 4,
+        "name": "papaya",
+        "price": 0.5,
+        "inStock": false,
+        "image": "images/papaya.png" 
+      },
+      {
+        "id": 3,
+        "name": "Saffron",
+        "price": 1.2,
+        "inStock": true,
+        "image": "images/saffron.png" 
+      },
+      {
+        "id": 2,
+        "name": "Sugarcane",
+        "price": 0.5,
+        "inStock": false,
+        "image": "images/sugarcane.png" 
+      },
+      {
+        "id": 1,
+        "name": "Watermelon",
+        "price": 0.5,
+        "inStock": false,
+        "image": "images/watermelon.png" 
+      }
+    ]
+  }
+  

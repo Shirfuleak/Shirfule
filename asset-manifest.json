@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shirfule/static/css/main.5893e3e8.css",
+    "main.js": "/shirfule/static/js/main.ac1b6292.js",
+    "static/js/453.c199d171.chunk.js": "/shirfule/static/js/453.c199d171.chunk.js",
+    "static/media/shop.jpg": "/shirfule/static/media/shop.211f1ef45dca916cffa6.jpg",
+    "static/media/shop1.jpg": "/shirfule/static/media/shop1.9ccbf16c222b312c5b47.jpg",
+    "static/media/banner.jpg": "/shirfule/static/media/banner.592c0e8b0e24c0ea6615.jpg",
+    "static/media/logo.jpg": "/shirfule/static/media/logo.7ac28dc5a48bd13d221f.jpg",
+    "index.html": "/shirfule/index.html",
+    "main.5893e3e8.css.map": "/shirfule/static/css/main.5893e3e8.css.map",
+    "main.ac1b6292.js.map": "/shirfule/static/js/main.ac1b6292.js.map",
+    "453.c199d171.chunk.js.map": "/shirfule/static/js/453.c199d171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5893e3e8.css",
+    "static/js/main.ac1b6292.js"
+  ]
+}
